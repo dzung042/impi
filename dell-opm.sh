@@ -60,3 +60,5 @@ yum -y install wget
     exit
 fi
 
+
+# https://linux.dell.com/repo/hardware/
